@@ -1,1 +1,3 @@
-Testando terminal, curso git Angela
+Testando terminal, curso git Angela.
+Criando branches
+
